@@ -4,6 +4,8 @@ layout: default
 
 
 # Graduate Database Systems (Spring 2024)
+**Enrollment:** All students will be admitted off the waitlist. Interested students should fill out [the enrollment form](https://forms.gle/Dz9WTAWw7yeTXyD6A), regardless of prerequistes completed.
+{: .announcement}
 
 * **When**: *Tuesday/Thursday 2:00-3:30 PM*
 * **Where**: *Soda 310*
@@ -14,8 +16,7 @@ layout: default
 This course is designed for CS PhD students. CS grad students have priority for enrollment. If space permits, other qualified students may be allowed in. Prerequisites include 
   * One of {CS262A, CS294-248}
   * CS186 or equivalent
-* All students will be admitted off the waitlist. **Interested students should fill out [the enrollment form](https://forms.gle/Dz9WTAWw7yeTXyD6A), regardless of prerequistes completed.**
-{: .announcement}
+
 
 <!-- * **Announcements**: [Piazza](https://piazza.com/class/k5mxqow7ugc42v) -->
 <!-- * **Sign Up** [Google Form at http://bit.ly/cs286-20](http://bit.ly/cs286-20) -->
