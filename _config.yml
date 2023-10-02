@@ -3,11 +3,12 @@
 # Site settings
 title: CS286
 email: hellerstein@berkeley.edu
+repository: jhellerstein/cs286-sp24
 author:
-description: Berkeley Grad Database Course Website Sp20
+description: Berkeley Grad Database Course Website Sp24
 
 
-# baseurl: /CS286-Sp20
+# baseurl: /CS286-Sp24
 
 # Build settings
 # permalink: :title/
