@@ -7,8 +7,8 @@ layout: default
 **Enrollment:** This course is designed for CS PhD students. CS grad students have priority for enrollment. If space permits, other qualified students may be allowed in. Prerequisites include:
   * One of {CS262A, CS294-248}
   * CS186 or equivalent
-  
-All students will be admitted off the waitlist. Interested students should **fill out [the enrollment form](https://forms.gle/Dz9WTAWw7yeTXyD6A),** regardless of prerequistes completed.
+
+All students will be admitted off the waitlist. Interested students should **fill out [the enrollment form](https://forms.gle/Dz9WTAWw7yeTXyD6A),** regardless of prerequisites completed.
 {: .announcement}
 
 * **When**: *Tuesday/Thursday 2:00-3:30 PM*
@@ -42,12 +42,12 @@ The course will be held in-person, and regular attendance is mandatory.**
 The bulk of the course will involve learning from research papers, both classics and 
 recent results. Students will be expected to read papers in advance of class, and participate in class discussion. Students will also undertake independent research as part of the course.
 
-The course will have two phases. For the first few weeks, we will read papers
+<!-- The course will have two phases. For the first few weeks, we will read papers
 from some of the foundational systems in the field. Classes will be in lecture
 format for this phase, with class discussion.
 
 The second phase will emphasize more recent work. The format for this 
-phase is TBA, but will likely include required participation from students.
+phase is TBA, but will likely include required participation from students. -->
 
 
 
