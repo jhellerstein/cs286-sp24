@@ -1,58 +1,58 @@
----
----
-
-
-
-
-
-
-$theme-colors: (
+--- --- $theme-colors: (
   "primary": #3B7EA1,
   "danger": #ED4E33,
 );
 
-.blockquote  {
+.blockquote {
   padding: 1rem;
 }
 
 @import 'bootstrap/bootstrap';
 
 :target:before {
-content:"";
-display:block;
-height:120px; /* fixed header height*/
-margin:-120px 0 0;  /* negative fixed header height */
+  content: "";
+  display: block;
+  height: 120px;
+  /* fixed header height*/
+  margin: -120px 0 0;
+  /* negative fixed header height */
 }
 
 .syllabus h1 {
   font-size: 2rem;
 }
+
 .syllabus h2 {
   font-size: 1.7rem;
 }
+
 .syllabus h3 {
   font-size: 1.2rem;
 }
 
 
 
+.announcement {
+  padding: 10px 15px 0px;
+  border: 1px solid #e1e1e1;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+}
 
 
 
-
-
-.required_reading::before { 
+.required_reading::before {
   content: "Required Reading";
   font-size: 1.5rem;
 }
 
-.optional_reading::before { 
+.optional_reading::before {
   content: "Optional Reading";
 }
 
 .required_reading {
   padding: 1rem;
-} 
+}
 
 .optional_reading {
   padding: 1rem;
@@ -61,7 +61,7 @@ margin:-120px 0 0;  /* negative fixed header height */
 
 .optional_reading_no_heading {
   padding: 1rem;
-} 
+}
 
 .required_reading ul {
   padding-top: 1rem;
@@ -69,22 +69,18 @@ margin:-120px 0 0;  /* negative fixed header height */
 }
 
 .optional_reading ul {
-  padding-top: 1rem; 
+  padding-top: 1rem;
 }
 
 
 .optional_reading_no_heading ul {
   /*padding: 1rem;*/
-} 
-
-
-.required_reading ul li {
- 
 }
 
-.optional_reading ul li {
-  
-}
+
+.required_reading ul li {}
+
+.optional_reading ul li {}
 
 
 
@@ -93,7 +89,7 @@ margin:-120px 0 0;  /* negative fixed header height */
 /* Padding below the footer and lighter body text */
 
 body {
-/*  
+  /*  
   padding-top: 5rem;
   padding-bottom: 5rem;
 */
@@ -114,6 +110,7 @@ main {
 .carousel {
   margin-bottom: 4rem;
 }
+
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   bottom: 3rem;
@@ -125,7 +122,8 @@ main {
   height: 32rem;
   background-color: #777;
 }
-.carousel-item > img {
+
+.carousel-item>img {
   position: absolute;
   top: 0;
   left: 0;
@@ -143,9 +141,11 @@ main {
   margin-bottom: 1.5rem;
   text-align: center;
 }
+
 .course_content h2 {
   font-weight: 400;
 }
+
 .course_content .col-lg-4 p {
   margin-right: .75rem;
   margin-left: .75rem;
@@ -156,7 +156,8 @@ main {
 ------------------------- */
 
 .featurette-divider {
-  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  margin: 5rem 0;
+  /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the headings */
@@ -173,6 +174,7 @@ main {
 
 
 @media (min-width: 40em) {
+
   /* Bump up size of carousel content */
   .carousel-caption p {
     margin-bottom: 1.25rem;
@@ -190,6 +192,3 @@ main {
     margin-top: 7rem;
   }
 }
-
-
-

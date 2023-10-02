@@ -10,12 +10,13 @@ layout: default
 * **Instructor**: [Joe Hellerstein](https://dsf.berkeley.edu/jmh)
    * **Office Hours:** TBA.
 
+<div class="announcement">
 * **Enrollment Information**
 This course is designed for CS PhD students. CS grad students have priority for enrollment. If space permits, other qualified students may be allowed in. Prerequisites include 
   * One of {CS262A, CS294-248}
   * CS186 or equivalent
 * All students will be admitted off the waitlist. **Interested students should fill out [the enrollment form](https://forms.gle/Dz9WTAWw7yeTXyD6A), regardless of prerequistes completed.**
-
+</div>
 
 <!-- * **Announcements**: [Piazza](https://piazza.com/class/k5mxqow7ugc42v) -->
 <!-- * **Sign Up** [Google Form at http://bit.ly/cs286-20](http://bit.ly/cs286-20) -->
