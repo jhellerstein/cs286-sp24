@@ -4,7 +4,13 @@ layout: default
 
 
 # Graduate Database Systems (Spring 2024)
-**Enrollment:** All students will be admitted off the waitlist. Interested students should fill out [the enrollment form](https://forms.gle/Dz9WTAWw7yeTXyD6A), regardless of prerequistes completed.
+**Enrollment:** This course is designed for CS PhD students. CS grad students have priority for enrollment. If space permits, other qualified students may be allowed in. 
+
+Prerequisites include 
+  * One of {CS262A, CS294-248}
+  * CS186 or equivalent
+
+All students will be admitted off the waitlist. Interested students should **fill out [the enrollment form](https://forms.gle/Dz9WTAWw7yeTXyD6A),** regardless of prerequistes completed.
 {: .announcement}
 
 * **When**: *Tuesday/Thursday 2:00-3:30 PM*
@@ -12,10 +18,6 @@ layout: default
 * **Instructor**: [Joe Hellerstein](https://dsf.berkeley.edu/jmh)
    * **Office Hours:** TBA.
 
-* **Enrollment Information**
-This course is designed for CS PhD students. CS grad students have priority for enrollment. If space permits, other qualified students may be allowed in. Prerequisites include 
-  * One of {CS262A, CS294-248}
-  * CS186 or equivalent
 
 
 <!-- * **Announcements**: [Piazza](https://piazza.com/class/k5mxqow7ugc42v) -->
@@ -48,23 +50,6 @@ format for this phase, with class discussion.
 
 The second phase will emphasize more recent work. The format for this 
 phase is TBA, but will likely include required participation from students.
-
-
-## Syllabus
-TBA
-
-## Projects
-Students will be expected to undertake substantive research projects throughout 
-the course of the semester, on a topic relevant to the course and subject to 
-instructor approval. Teams of 2 are strongly encouraged for systems work. 
-
-Ideas for projects will be posted early in the semester.  Projects 
-can overlap with students' ongoing Ph.D. research, if those projects fall into scope.
-
-
-## Grading
-
-TBA.
 
 
 
