@@ -50,6 +50,8 @@ The second phase will emphasize more recent work. The format for this
 phase is TBA, but will likely include required participation from students. -->
 
 
+[Syllabus from the last offering in 2020 is here](./sp20).
+
 
 
 
