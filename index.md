@@ -2,9 +2,10 @@
 layout: default
 ---
 
-We will not hold class on the first Tuesday, 1/16, due to the ongoing CIDR conference. Our first class meeting will be Thursday 1/18. {: .announcement}
-
 # Graduate Database Systems (Spring 2024)
+We will not hold class on the first Tuesday, 1/16, due to the ongoing CIDR conference. Our first class meeting will be Thursday 1/18.
+{: .announcement}
+
 **Enrollment:** This course is designed for CS PhD students. CS grad students have priority for enrollment. If space permits, other qualified students may be allowed in. Prerequisites include:
   * One of {CS262A, CS294-248}
   * CS186 or equivalent
