@@ -25,7 +25,8 @@ All students will be admitted off the waitlist. Interested students should **fil
 <!-- * **Sign-up to Present**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1p8q7vnds821-_w43H-IppjMKPV5KpOl3fVPZCY27RpM/edit#gid=0) Later in the semester we will be doing student presentations which we will fill in here. -->
 <!-- * If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/jhellerstein/CS286-Sp20) by modifying the [index.md](https://github.com/jhellerstein/CS286-Sp20/blob/master/index.md) file. -->
 
-
+## Syllabus (Readings)
+Maintained in [this Google Sheet](https://docs.google.com/spreadsheets/d/1uCx9Yw4JOtvBzA3FE7K7sOe67bLTxuxKtzvUVJnS9LY/edit#gid=0).
 
 ## Course Description
 The Database Systems field has been exploring issues in data 
