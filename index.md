@@ -3,20 +3,11 @@ layout: default
 ---
 
 # Graduate Database Systems (Spring 2024)
-We will not hold class on the first Tuesday, 1/16, due to the ongoing CIDR conference. Our first class meeting will be Thursday 1/18.
-{: .announcement}
-
-**Enrollment:** This course is designed for CS PhD students. CS grad students have priority for enrollment. If space permits, other qualified students may be allowed in. Prerequisites include:
-  * One of {CS262A, CS294-248}
-  * CS186 or equivalent
-
-All students will be admitted off the waitlist. Interested students should **fill out [the enrollment form](https://forms.gle/Dz9WTAWw7yeTXyD6A),** regardless of prerequisites completed.
-{: .announcement}
 
 * **When**: *Tuesday/Thursday 2:00-3:30 PM*
 * **Where**: *Soda 310*
 * **Instructor**: [Joe Hellerstein](https://dsf.berkeley.edu/jmh)
-   * **Office Hours:** TBA.
+* **Office Hours:** Thursday 3:30-4:30 or by appointment.
 
 
 
@@ -26,7 +17,7 @@ All students will be admitted off the waitlist. Interested students should **fil
 <!-- * If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/jhellerstein/CS286-Sp20) by modifying the [index.md](https://github.com/jhellerstein/CS286-Sp20/blob/master/index.md) file. -->
 
 ## Syllabus (Readings)
-Readings and lecture notes will be kept linked in [this Google Sheet](https://docs.google.com/spreadsheets/d/1uCx9Yw4JOtvBzA3FE7K7sOe67bLTxuxKtzvUVJnS9LY/edit#gid=0).
+Readings and lecture notes will be kept linked in [this Google Sheet](https://docs.google.com/spreadsheets/d/1uCx9Yw4JOtvBzA3FE7K7sOe67bLTxuxKtzvUVJnS9LY/edit#gid=0). For context, the [syllabus from the last offering in 2020 is here](./sp20).
 
 ## Course Description
 The Database Systems field has been exploring issues in data 
@@ -53,7 +44,7 @@ The second phase will emphasize more recent work. The format for this
 phase is TBA, but will likely include required participation from students. -->
 
 
-[Syllabus from the last offering in 2020 is here](./sp20).
+
 
 
 
