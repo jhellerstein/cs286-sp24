@@ -17,7 +17,7 @@ layout: default
 <!-- * If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/jhellerstein/CS286-Sp20) by modifying the [index.md](https://github.com/jhellerstein/CS286-Sp20/blob/master/index.md) file. -->
 
 ## Syllabus (Readings)
-Readings and lecture notes will be kept linked in [this Google Sheet](https://docs.google.com/spreadsheets/d/1uCx9Yw4JOtvBzA3FE7K7sOe67bLTxuxKtzvUVJnS9LY/edit#gid=0). For context, the [syllabus from the last offering in 2020 is here](./sp20).
+Readings and lecture notes will be kept linked in [this Google Sheet](https://docs.google.com/spreadsheets/d/1QvVFv_csCTm8kr0-4DsGZZ76uAR-v7i-oDTMwvaoE5E/). For context, the [syllabus from the last offering in 2020 is here](./sp20).
 
 ## Course Description
 The Database Systems field has been exploring issues in data 
