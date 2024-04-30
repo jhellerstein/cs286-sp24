@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<header>
+        <div class="lec-header-left"><h1>CS286 2024</h1></div>
+        <img src="images/ucb-seal.png" width="100px" alt="Centered Image" class="lec-header-image">
+        <div class="lec-header-right"><h1>Hellerstein</h1></div>
+</header>
+
 # Graduate Database Systems (Spring 2024)
 
 * **When**: *Tuesday/Thursday 2:00-3:30 PM*
