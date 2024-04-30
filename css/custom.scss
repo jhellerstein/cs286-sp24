@@ -3,28 +3,10 @@
 
 
 
-lec-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px 20px; /* Adjust padding as needed */
-  background-color: #f4f4f4; /* Optional: background color */
-}
-
-.lec-header-left, .lec-header-right {
-  flex: 1; /* Allows the divs to grow and take equal space */
-  text-align: left; /* Left align text for the left div */
-}
-
-.lec-header-right {
-  text-align: right; /* Right align text for the right div */
-}
-
-.lec-header-image {
-  max-width: 800px; /* Adjust the image size as needed */
-  height: auto;
-  /* Centering the image horizontally */
-  margin: 0 auto; 
+.center-image {
+  display: block;
+  margin: 0 auto; /* Centers the image horizontally */
+  max-width: 100%; /* Makes image responsive */
 }
 
 
