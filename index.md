@@ -1,6 +1,5 @@
 ---
 layout: default
-mermaid: true
 ---
 
 # CS286 Graduate Database Systems @ Berkeley (Spring 2024)
