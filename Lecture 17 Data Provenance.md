@@ -1,7 +1,3 @@
----
-mathjax: true
----
-
 # Provenance Semirings
 ## Background on Data Provenance
 There is a hodgepodge of papers on "data provenance" and "data lineage" in the late 1990's and 2000's, which was motivated by a variety of applications. 
