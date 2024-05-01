@@ -8,6 +8,7 @@ author:
 description: Berkeley Grad Database Course Website Sp24
 
 mermaid: true
+mathjax: true
 
 # baseurl: /CS286-Sp24
 
