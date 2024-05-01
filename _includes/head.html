@@ -26,7 +26,24 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 
+<!-- inline config -->
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      macros: {
+      	RR: "{\\bf R}",
+      	bold: ["{\\bf #1}", 1],
+        indep: "{\\perp \\!\\!\\! \\perp}",
+    	}
+    },
+    svg: {
+    fontCache: 'global'
+  	},
+  };
+</script>
 
+<!-- load MathJax -->
     
 <!--[if lt IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
