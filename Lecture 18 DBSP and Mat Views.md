@@ -56,6 +56,7 @@ Now to the juicy bits.
 > DBSP is only dealing with streams $\mathcal{S}_A$ where $A$ is an Abelian Group. As discussed above, this proves to be quite natural.
 
 > The *delay operator* $z^{-1}$ does nothing more than return its input shifted left by one: 
+
 $$z^{-1}(s)[t] \stackrel{def}{=} \left\{ \begin{array}{rcl}
   0_A & \textrm{when} & t = 0 \\
   s[t-1] & \textrm{when} & t > 0 
@@ -78,11 +79,13 @@ Note that unlike our provenance discussion of multisets, we are using $\mathbb{Z
 > A $\mathbb{Z}$-set is *positive* (a *multiset* or *bag*) if the non-0 weights are always positive.
 
 > The function $distinct: \mathbb{Z}[A] \rightarrow \mathbb{Z}[A]$ converts a $\mathbb{Z}$-set into a set:
-> $$distinct(m)[x] \stackrel{def}{=} \left\{ \begin{array}{rcl}
->  1 & \textrm{if} & m[x] > 0 \\
->  0 &  & \textrm{otherwise}
->  \end{array} \right.
->  $$
+
+$$
+ distinct(m)[x] \stackrel{def}{=} \left\{ \begin{array}{rcl}
+  1 & \textrm{if} & m[x] > 0 \\
+  0 &  & \textrm{otherwise}
+  \end{array} \right.
+$$
 
 See Table 1 of the paper for $\mathbb{Z}$-set (i.e. abelian group) definitions of multisets a la SQL! Note how it's possible internally for the weights to go below zero (e.g. in the *difference* operator, but as far as the outside world can see it's all multisets!) thanks to the semantics of $distinct$.
 
