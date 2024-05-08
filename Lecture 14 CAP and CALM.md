@@ -79,8 +79,8 @@ A key distinction between linearizability and serializability is that linearizab
 For linearizability, we want the illusion that each request/response pair happens in sequence, without such interleaving.
 
 > A History is a finite sequence of operation *invocation* and *response events*. 
-> - Invocation: $(A: x.op(args*))$, where $x$ is an object name, $op$ is an operation name, $args*$ denotes a sequence of argument values, and $A$ is a process name. 
-> - Response: $(A: x\ term(res*) A)$, where term is a termination condition (OK/Err), and res* is a sequence of results. 
+> - Invocation: $(A: x.op(args*)) $, where $x$ is an object name, $op$ is an operation name, $args*$ denotes a sequence of argument values, and $A$ is a process name. 
+> - Response: $(A: x\ term(res*) A) $, where term is a termination condition (OK/Err), and res* is a sequence of results. 
 > - A response *matches* an invocation if they share the same object and process names. (Assume sequential)
 
 Much like we have Transaction identifiers (T1, T2, ...) in Serializability, we have Process identifiers (P1, P2, ...) in Linearizability.
