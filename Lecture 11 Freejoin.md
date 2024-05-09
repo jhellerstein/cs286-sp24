@@ -199,7 +199,7 @@ Note some funky things above:
     - *or* no need for `R.y` file, store the `R.y` subarray for each `x` in its own location
 - Do this recursively for some column ordering, gives you a hash-trie
     - For SQL, the rightmost column is a hashmap from `x` value to multiplicity (# of dups of that tuple)
-- *This looks awfully like our `enumerate`d loop indexes above!!
+- *This looks awfully like our `enumerate`d loop indexes above!!*
 - 
 
 ### FreeJoin Plan
